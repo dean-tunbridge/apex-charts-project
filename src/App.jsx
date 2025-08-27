@@ -1,9 +1,10 @@
 import './App.css'
+import PopChart from './components/PopChart'
 
 function App() {
   return (
     <>
-      <h1>Hebnlo</h1>
+      <PopChart />
     </>
   )
 }
