@@ -1,10 +1,10 @@
 import './App.css'
-import PopChart from './components/PopChart'
+import TestChart from './components/TestChart'
 
 function App() {
   return (
     <>
-      <PopChart />
+      <TestChart />
     </>
   )
 }
